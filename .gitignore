@@ -1,6 +1,7 @@
-*.i
-*.ii
-*.gpu
-*.ptx
-*.cubin
-*.fatbin
+/checkpoints
+__pycache__
+/evaluate/__pycache__
+__pycache__/create_dataset.cpython-310.pyc
+/Imgs_FCO
+*.json
+*.png
